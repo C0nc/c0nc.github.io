@@ -238,6 +238,36 @@ section > p {
   flex: 1;
 }
 
+/* ===== Contact ===== */
+.email-address {
+  margin-top: 14px;
+  font-size: .7rem;
+  letter-spacing: -.1px;
+  line-height: 1.6;
+  color: var(--text-light);
+  text-align: center;
+  white-space: nowrap;
+}
+
+.email-address i {
+  margin-right: 6px;
+  color: var(--primary);
+}
+
+.contact-cta {
+  margin-top: 20px;
+  padding: 14px 16px;
+  font-size: .92rem;
+  background: var(--highlight);
+  border-left: 3px solid var(--primary-light);
+  border-radius: 6px;
+}
+
+.contact-cta i {
+  margin-right: 7px;
+  color: var(--primary-light);
+}
+
 /* ===== Research Areas Venn ===== */
 .venn-figure {
   position: relative;
