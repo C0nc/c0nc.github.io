@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+  <rect width="360" height="240" fill="#f4f5f7"/>
+  <g fill="none" stroke="#d9dce1" stroke-width="1.5">
+    <circle cx="108" cy="96" r="34"/><circle cx="180" cy="140" r="26"/>
+    <circle cx="250" cy="88" r="30"/><path d="M108 96 L180 140 L250 88"/>
+  </g>
+  <text x="180" y="196" font-family="Helvetica,Arial,sans-serif" font-size="19"
+        font-weight="600" fill="#5b616b" text-anchor="middle">Spatial Hi-C-RNA</text>
+  <text x="180" y="218" font-family="Helvetica,Arial,sans-serif" font-size="13"
+        fill="#9aa0a8" text-anchor="middle">Cell 2026</text>
+</svg>
