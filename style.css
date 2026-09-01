@@ -240,17 +240,16 @@ section > p {
 
 /* ===== Contact ===== */
 .email-address {
-  margin-top: 14px;
-  font-size: .7rem;
+  margin-top: 10px;
+  font-size: .9rem;
+  font-weight: 600;
   letter-spacing: -.1px;
-  line-height: 1.6;
-  color: var(--text-light);
-  text-align: center;
-  white-space: nowrap;
+  color: var(--primary);
+  word-break: break-word;
 }
 
 .email-address i {
-  margin-right: 6px;
+  margin-right: 7px;
   color: var(--primary);
 }
 
